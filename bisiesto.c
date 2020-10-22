@@ -1,4 +1,4 @@
-#include <conio.h>
+#include <conio.h>   // no hace falta
 #include <stdio.h>
 
 int main()

@@ -18,6 +18,10 @@ main()
     mayusc=minusc_a_mayusc(minusc);
     printf("\nLa Mayuscula equivalente es %c\n\n", mayusc);
 
-
+    // falta return 0;
 
 }
+
+// El ejercicio pedía transformar una frase, no solamente convertir una letra. La idea es que aprendan a trbajar secuencias
+// Diseñe un algoritmo donde dada una frase finalizada en punto, si una palabra comienza
+// con vocal se transforme a mayúscula
